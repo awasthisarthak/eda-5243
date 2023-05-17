@@ -1,6 +1,6 @@
 # eda-5243
 
-This repository contains the code and data for Lab 1 of the Exploratory Data Analysis (EDA) project. The goal of this lab is to perform a comprehensive exploratory data analysis on a given dataset, following the CRISP-DM (Cross-Industry Standard Process for Data Mining) model.
+This repository contains the code and data for Lab 1/2 of the Exploratory Data Analysis (EDA) project. The goal of this lab is to perform a comprehensive exploratory data analysis on a given dataset, following the CRISP-DM (Cross-Industry Standard Process for Data Mining) model.
 CRISP-DM Steps
 
     Business Understanding:
